@@ -6,14 +6,7 @@ class Cat
  end
 end
 
-
-# x = Cat.new("Maru")
-# puts "meow!"
-
-
-
-
-maru = Cat.new
-maru.name = "Maru"
-  puts maru.name
+# maru = Cat.new
+# maru.name = "Maru"
+#   puts maru.name
 
